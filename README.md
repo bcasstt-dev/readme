@@ -86,6 +86,11 @@ A **console-based inventory and sales management system** developed in **Python*
 * Eventually create my **own company**, combining engineering and entrepreneurship
 * Build useful products that provide real value
 
+## 📜 Certifications
+
+- **Python – Open Academy** (2025)  
+  *Fundamentals of Python programming, syntax, control flow, and basic problem solving.*
+
 ---
 
 ## 📫 Contact
