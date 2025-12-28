@@ -1,82 +1,98 @@
 # readme
-Who i am
+# 👋 Hi, I'm Carlos Bravo
 
-# Inventory & Sales Management System (CLI)
+I’m an **18-year-old Software Engineering student** currently studying at **UPAEP**, with an expected graduation year of **2029**. I’m originally from **Orizaba, Mexico**, and I currently live in **Puebla** while studying independently.
 
-A **console-based inventory and sales management system** written in **Python**, developed as a university project.
-
-This project simulates a simplified **ERP-like workflow**, covering product purchasing, storage management, and sales transactions, with a strong focus on **business logic** and **data structures**.
+I’m a **beginner developer** focused on building strong foundations, especially in **Python**, with a clear interest in **backend development**, **system design**, and long-term growth as a software engineer. I enjoy learning by building real projects and understanding how systems work under the hood.
 
 ---
 
-## 🚀 Features
+## 🎓 Education
 
-* Load **providers** and **products** from external `.txt` files
-* Purchase products as a customer, respecting stock limits and storage capacity
-* Internal warehouse management (add, edit, and delete stored products)
-* Sell products as a vendor
-* Track and display **sales history**
+* **Bachelor of Software Engineering** — *In progress*
+* **Universidad Popular Autónoma del Estado de Puebla (UPAEP)**
+* Location: Puebla, Mexico
+
+---
+
+## 💻 Technical Skills
+
+* **Languages:** Python, C++ (basic)
+* **Programming style:** Procedural programming
+* **Core interests:**
+
+  * Problem solving
+  * Business logic
+  * Data structures
+  * Debugging and code clarity
+
+---
+
+## 📦 Featured Project
+
+### Inventory & Sales Management System (CLI)
+
+A **console-based inventory and sales management system** developed in **Python** as a university project. The system simulates a simplified **ERP-like workflow**, covering purchasing, storage, and sales.
+
+**Key features:**
+
+* Load providers and products from `.txt` files
+* Purchase products while respecting stock limits and storage capacity
+* Internal inventory management (add, edit, delete products)
+* Product sales and transaction handling
+* Session-based sales history tracking
 * Input validation and realistic business rules
-* ANSI color output for better CLI user experience
+* ANSI colors for improved CLI user experience
 
----
-
-## 🧠 Project Focus
+**Project focus:**
 
 * Business logic implementation
-* Structured data handling using **lists** and **dictionaries**
-* Procedural programming (no OOP yet)
+* Use of lists and dictionaries for structured data handling
 * End-to-end flow simulation (purchase → storage → sale)
 
----
-
-## 🛠️ Technologies Used
-
-* **Python 3**
-* Command Line Interface (CLI)
-* Text files for data input
+> This project reflects my current level and learning stage, and serves as a foundation for future improvements such as OOP refactoring and persistent storage.
 
 ---
 
-## 📂 Data Handling
+## 🌱 What I'm Learning Next
 
-* Providers and products are loaded from `.txt` files
-* Data is stored temporarily in memory during execution
-* Sales are recorded in a session-based sales history
-
----
-
-## 📈 Project Level
-
-* **Level:** Intermediate
-* **Domain:** Inventory / Sales Management
-* **Type:** Procedural application
+* Machine Learning fundamentals
+* Better code organization and architecture
+* Improving Git and GitHub workflows
 
 ---
 
-## ▶️ How to Run
+## 🎯 Goals
 
-1. Clone the repository
-2. Make sure Python 3 is installed
-3. Run the main script from the terminal:
+### Short-term (Now – 12 months)
 
-```bash
-python main.py
-```
+* Master **Python fundamentals** and write projects from scratch
+* Build small projects such as **mini-games** and automation tools
+* Develop a **personal assistant** to help manage my social platforms and save time
+* Establish a consistent habit of maintaining **GitHub, LinkedIn, and X** professionally
+* Strengthen mathematical foundations
 
-> Note: Ensure the required `.txt` data files are in the correct directory before running.
+### Medium-term (2–3 years)
+
+* Become strong in **backend development** and **system design**
+* Gain solid experience with **2–3 programming languages**
+* Start exploring **cybersecurity** and **artificial intelligence** more professionally
+* Obtain **internships or real-world experience** during university
+
+### Long-term (Post-graduation ~2029)
+
+* Work as a **strong engineer in a company**, preferably in a **remote role**
+* Build a career with **stability, growth, and impact**, while solving hard problems
+* Eventually create my **own company**, combining engineering and entrepreneurship
+* Build useful products that provide real value
 
 ---
 
-## 📌 Future Improvements
+## 📫 Contact
 
-* Refactor to **Object-Oriented Programming (OOP)**
-* Persistent storage using a database
-* Improved error handling
-* Unit testing
-* User authentication
+* Gmail: bcasstt.dev@gmail.com
 
----
+> Always open to learning, feedback, and discussing programming fundamentals.
 
 ## 👤 Author
 
